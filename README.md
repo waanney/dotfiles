@@ -8,7 +8,7 @@ Every day I use Vim, and I feel like I learn something new daily. So please don'
 
 ## Main Tools
 
-- **Nix** (package manager)
+
 - **Neovim** (code editor)
 - **Hyprland** (tiling window manager for Wayland)
 - **Kitty** (terminal emulator)
@@ -20,7 +20,7 @@ Every day I use Vim, and I feel like I learn something new daily. So please don'
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/your-username/dotfiles.git ~/dotfiles
+git clone https://github.com/waanney/dotfiles.git ~/dotfiles
 ```
 
 ### Set Up Configurations with Stow
